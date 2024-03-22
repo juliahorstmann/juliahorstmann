@@ -16,10 +16,14 @@
 </a>
 </div>
 
-### Tool 🔧🐡
+### Tools 🔧🐡
 <div align = "left">
   <a href = "https://www.apple.com/" rel = "noreferrer">
     <img src = "https://files.softicons.com/download/system-icons/mac-os-apps-icons-3-by-hamza-saleem/png/512x512/Finder.png" alt = "macOS" width="40" height="40">
+  </a>
+  <div>
+  <a href = "https://code.visualstudio.com/" rel = "noreferrer">
+    <img src = "https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt = "Vscode" width="40" height="40">
   </a>
 
   ## Contact me at: 📬🦭
